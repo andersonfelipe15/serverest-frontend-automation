@@ -70,19 +70,19 @@ Acesse a pasta do projeto:
 
 cd serverest-frontend-automation
 
-Instale as dependencias:
+INSTALE AS DEPENDENCIAS:
 
 npm init -y
 
-e depois rode:
+E DEPOIS RODE:
 
 npm install cypress --save-dev
 
-Abra o Cypress:
+ABRA O CYPRESS:
 
 npx cypress open
 
-Ou, para rodar os testes diretamente no terminal:
+OU, PARA RODAR OS TESTES DIRETAMENTE NO TERMINAL:
 
 npx cypress run
 
