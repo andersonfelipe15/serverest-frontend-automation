@@ -38,11 +38,12 @@ Login sem preencher campo usuario
 
 📂 cypress
  ├── 📂 e2e           # Casos de teste automatizados
- ├── 📂 fixtures      # Dados de teste (massa de dados)
- ├── 📂 support       # Commands customizados e configuracao global
- └── 📄 config files  # Configuracoes do Cypress
-📄 cypress.config.js   # Configuracao principal do projeto
-📄 package.json        # Dependencias e scripts do projeto
+ ├── 📂 fixtures      # Dados de teste (massa de dados para os testes)
+ ├── 📂 support       # Commands customizados e configuração global
+ └── 📄 config files  # Arquivos de configuração do Cypress
+📄 cypress.config.js  # Configuração principal do projeto
+📄 package.json       # Dependências e scripts do projeto
+
 
 💻 Requisitos para Rodar o Projeto
 
